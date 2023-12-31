@@ -1,0 +1,7 @@
+.member-card {
+    padding: 3%;
+    margin: 2%;
+    box-shadow: 0 0 10px var(--color-shadow);
+    border-radius: 10px;
+    background-color: var(--accent-background-color);
+}

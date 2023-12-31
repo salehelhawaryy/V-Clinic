@@ -1,0 +1,13 @@
+.remove-pdf-button-container{
+display: flex;
+justify-content: flex-end;
+margin-top: 1rem;
+}
+
+.ant-tabs-tab-btn{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 150px;
+}
+
